@@ -20,9 +20,13 @@ def lis(arr):
         maximum = max(maximum , lis[i]) 
   
     return maximum 
+<<<<<<< HEAD
 
 """driver program"""
 
+=======
+#driver program
+>>>>>>> a68baaec47a29c58b14c26c37be0bc3c03f33906
 arr = [int(x) for x in input().split()]
 
 # c is the length of LIS in the input array
