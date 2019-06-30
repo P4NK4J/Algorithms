@@ -21,6 +21,8 @@ def lis(arr):
   
     return maximum 
 
+"""driver program"""
+
 arr = [int(x) for x in input().split()]
 
 # c is the length of LIS in the input array
